@@ -1,0 +1,6 @@
+framework module Pods_OMDb {
+  umbrella header "Pods-OMDb-umbrella.h"
+
+  export *
+  module * { export * }
+}

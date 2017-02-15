@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.3.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - AlamofireNetworkActivityIndicator (2.1.0):
+    - Alamofire (~> 4.1)
+  - DZNEmptyDataSet (1.8.1)
+  - Realm (2.4.2):
+    - Realm/Headers (= 2.4.2)
+  - Realm/Headers (2.4.2)
+  - RealmSwift (2.4.2):
+    - Realm (= 2.4.2)
+  - RxAlamofire (3.0.2):
+    - RxAlamofire/Core (= 3.0.2)
+  - RxAlamofire/Core (3.0.2):
+    - Alamofire (~> 4.0)
+    - RxSwift (~> 3.0)
+  - RxCocoa (3.2.0):
+    - RxSwift (~> 3.1)
+  - RxRealm (0.5.1):
+    - RealmSwift (~> 2.2)
+    - RxSwift (~> 3.1)
+  - RxRealmDataSources (0.2.1):
+    - RealmSwift (~> 2.1)
+    - RxCocoa (~> 3.1)
+    - RxRealm (~> 0.5)
+    - RxSwift (~> 3.1)
+  - RxSwift (3.2.0)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - AlamofireNetworkActivityIndicator
+  - DZNEmptyDataSet
+  - RealmSwift
+  - RxAlamofire
+  - RxCocoa
+  - RxRealm
+  - RxRealmDataSources
+  - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  AlamofireNetworkActivityIndicator: 4716f6554bdfb9c7cf13b1e0e3af21163129690a
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  Realm: d27b758e12d62a3371879a065d4c40aa212c5a54
+  RealmSwift: 9556c0fe0f0cfecacfb755ae9e68ff379fc6bead
+  RxAlamofire: bc53604b29fd2d220cfaa490c736cc4500819f34
+  RxCocoa: ccdf43101a70407097a29082f648ba1676075b30
+  RxRealm: c80d17d42fc362f4d8af4ac62de360b014be5c3f
+  RxRealmDataSources: 743901f35ef18533b2fc5d41a0f6b6b62b3c3304
+  RxSwift: 46574f70d416b7923c237195939cc488a7fbf3a0
+
+PODFILE CHECKSUM: ad37f0a2499ba9a91d6e8b52820b2f5065d22962
+
+COCOAPODS: 1.1.1
